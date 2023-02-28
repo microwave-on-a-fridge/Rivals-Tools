@@ -1,5 +1,3 @@
-<div align="center">
-
 # Rivals-Tools
 #### A collection of tools for Rivals of Aether.
 
@@ -15,4 +13,3 @@ To use the replay extraction tool, simply run `replays.bat`, and then input the 
 
 ### Save data extraction tool
 Just like the replay extraction tool, to use the save data extraction tool, simply run `saves.bat`, and then input the drive letter for the drive you want your save data to be copied to.
-</div>
